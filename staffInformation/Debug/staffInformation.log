@@ -1,0 +1,42 @@
+﻿生成启动时间为 2018/11/9 21:56:21。
+     1>项目“C:\Users\lemon\Desktop\staffInformation\staffInformation\staffInformation.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\staffInformation.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\staffInformation.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\develop\VS2010\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Information.cpp MainText.cpp
+         MainText.cpp
+         Information.cpp
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(304): warning C4244: “初始化”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(324): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lemon\desktop\staffinformation\staffinformation\information.cpp(335): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\staffInformation.exe.embed.manifest.res" Debug\staffInformation_manifest.rc 
+       Link:
+         E:\develop\VS2010\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\staffInformation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.lib" /MACHINE:X86 Debug\staffInformation.exe.embed.manifest.res
+         Debug\Information.obj
+         Debug\MainText.obj
+       Manifest:
+         正在删除文件“Debug\staffInformation.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\staffInformation.exe.embed.manifest" /manifest Debug\staffInformation.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\staffInformation.exe.embed.manifest.res" Debug\staffInformation_manifest.rc 
+       LinkEmbedManifest:
+         E:\develop\VS2010\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\staffInformation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.lib" /MACHINE:X86 Debug\staffInformation.exe.embed.manifest.res
+         Debug\Information.obj
+         Debug\MainText.obj
+         staffInformation.vcxproj -> C:\Users\lemon\Desktop\staffInformation\Debug\staffInformation.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\staffInformation.unsuccessfulbuild”。
+         正在对“Debug\staffInformation.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\lemon\Desktop\staffInformation\staffInformation\staffInformation.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.72
